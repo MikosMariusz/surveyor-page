@@ -21,6 +21,7 @@ export default {
     SideNav,
     Footer
   },
+  scrollToTop: true,
   data() {
     return {
       displaySidenav: false

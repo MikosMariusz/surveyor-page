@@ -12,7 +12,8 @@ export default {
       type: String,
       required: true
     }
-  }
+  },
+  scrollToTop: true
 }
 </script>
 

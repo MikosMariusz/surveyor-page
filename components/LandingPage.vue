@@ -23,7 +23,8 @@ export default {
   components: {},
   data() {
     return {}
-  }
+  },
+  scrollToTop: true
 }
 </script>
 
