@@ -4,6 +4,7 @@
     <AboutSection sectionid="about" />
     <OfferSection sectionid="offer" />
     <ContactSection sectionid="contact" />
+    <EUFundingSection />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import LandingPage from '@/components/LandingPage'
 import OfferSection from '@/components/OfferSection'
 import AboutSection from '@/components/AboutSection'
 import ContactSection from '@/components/ContactSection'
+import EUFundingSection from '@/components/EUFundingSection'
 
 export default {
   layout: 'section',
@@ -20,7 +22,8 @@ export default {
     LandingPage,
     AboutSection,
     OfferSection,
-    ContactSection
+    ContactSection,
+    EUFundingSection
   }
 }
 </script>

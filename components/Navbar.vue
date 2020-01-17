@@ -58,7 +58,7 @@ export default {
   border-bottom: 1px solid #c5c5cc;
   border: none;
   box-shadow: none;
-  z-index: 3;
+  z-index: 100;
   font-family: Raleway, sans-serif;
   font-weight: 300;
   transition: all 0.5s ease;

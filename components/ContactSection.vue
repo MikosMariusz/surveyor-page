@@ -56,6 +56,7 @@ export default {
 .contact-container {
   width: 100%;
   height: 100%;
+  margin-bottom: 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -79,6 +80,7 @@ export default {
   min-height: 400px;
   box-shadow: 0 5px 28px rgba(0, 0, 0, 0.3), 0 3px 10px rgba(0, 0, 0, 0.22);
   margin-bottom: 40px;
+  z-index: 10;
 }
 .contact-details {
   margin: 30px;
@@ -109,8 +111,8 @@ export default {
 
 @media (min-width: 800px) {
   .contact-container {
-    width: 70%;
-    height: 70%;
+    width: 90%;
+    height: 90%;
     padding: 30px;
     flex-direction: row;
     border: 1px solid #7c2c35;
@@ -127,6 +129,14 @@ export default {
     display: block;
     width: 50%;
     margin-bottom: 0px;
+  }
+}
+
+
+@media (min-width: 1200px) {
+  .contact-container {
+    width: 70%;
+    height: 70%;
   }
 }
 </style>
