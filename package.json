@@ -1,0 +1,25 @@
+{
+  "name": "site-project",
+  "version": "1.0.0",
+  "description": "Marcin Tylecki Site",
+  "author": "Mariusz Mikoś",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "aos": "^2.3.4",
+    "nuxt": "^2.0.0",
+    "nuxt-leaflet": "0.0.19",
+    "nuxt-material-design-icons": "^1.0.4"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
+}
