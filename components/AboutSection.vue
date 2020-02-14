@@ -5,10 +5,7 @@
         Usługi Geodezyjne Marcin Tylecki jest debiutującą, prywatną firmą geodezyjną na terenie gminy Jordanów Śląski.
       </h2>
       <span class="about-desc">
-        Dzięki współpracy z doświadczonymi geodetami jesteśmy w stanie sprostać wszelkim wymaganiom stawianym obecnie firmom. Posiadane doświadczenie oraz sprzęt i oprogramowanie pozwalają na wykonanie wszelkiego rodzaju prac geodezyjnych.
-      </span>
-      <span class="about-desc">
-        W swojej pracy wykorzystujemy nowoczesny sprzęt pomiarowy m.in.: GPS-Topcon, tachimetry-Leica i Topcon, niwelatory-Leica i Nivel System.
+        Dzięki współpracy z doświadczonymi geodetami jesteśmy w stanie sprostać wszelkim wymaganiom stawianym obecnie firmom. Posiadane doświadczenie oraz sprzęt i oprogramowanie pozwalają na wykonanie wszelkiego rodzaju prac geodezyjnych. W swojej pracy wykorzystujemy nowoczesny sprzęt pomiarowy m.in.: GPS-Topcon, tachimetry-Leica i Topcon, niwelatory-Leica i Nivel System.
       </span>
       <h2 class="about-sub-title">
         Swoje usługi świadczymy głównie na terenie Dolnego Śląska.
