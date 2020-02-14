@@ -75,6 +75,9 @@ export default {
 <style scoped>
   .offers-wraper {
     width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
   }
   .offer-title {
     color: #7c2c35;
