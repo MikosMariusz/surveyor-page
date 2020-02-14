@@ -6,6 +6,7 @@
         <li><a href="#about">O nas</a></li>
         <li><a href="#offer">Oferta</a></li>
         <li><a href="#contact">Kontakt</a></li>
+        <li><a href="#donation">Dofinansowanie</a></li>
       </ul>
     </nav>
   </div>

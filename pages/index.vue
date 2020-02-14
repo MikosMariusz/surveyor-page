@@ -4,7 +4,7 @@
     <AboutSection sectionid="about" />
     <OfferSection sectionid="offer" />
     <ContactSection sectionid="contact" />
-    <EUFundingSection />
+    <EUFundingSection sectionid="donation" />
   </div>
 </template>
 

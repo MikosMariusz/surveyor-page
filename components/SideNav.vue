@@ -13,6 +13,9 @@
           <li class="nav-item">
             <a href="#contact">Kontakt</a>
           </li>
+          <li class="nav-item">
+            <a href="#donation">Dofinansowanie</a>
+          </li>
         </ul>
       </div>
     </transition>
