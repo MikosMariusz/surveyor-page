@@ -28,16 +28,15 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: '~/components/Loader.vue',
+  loading: '',
   /*
    ** Global CSS
    */
-  css: ['aos/dist/aos.css'],
+  css: [],
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [
-  ],
+  plugins: [],
   /*
   ** Nuxt.js dev-modules
   */

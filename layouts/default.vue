@@ -66,4 +66,27 @@ section {
   text-align: center;
   background-color: #c5c5cc;
 }
+
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin: 0 30px 0 30px;
+}
+
+.list-container li {
+  text-align: left;
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-family: Raleway, sans-serif;
+  font-weight: 300;
+}
+
+@media (min-width: 1200px) {
+  .list-container {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+}
 </style>
