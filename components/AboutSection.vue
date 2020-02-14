@@ -1,6 +1,6 @@
 <template>
   <section :id="sectionid">
-    <div>
+    <div class="about-wraper">
       <h2 class="about-title">
         Usługi Geodezyjne Marcin Tylecki jest debiutującą, prywatną firmą geodezyjną na terenie gminy Jordanów Śląski.
       </h2>
@@ -47,6 +47,12 @@ export default {
 </script>
 
 <style scoped>
+  .about-wraper {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
   .about-title {
     color: #7c2c35;
     font-family: Raleway, sans-serif;
