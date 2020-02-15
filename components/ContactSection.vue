@@ -30,7 +30,7 @@
       <div class="contact-map">
         <no-ssr>
           <l-map :zoom=12 :center="[50.848986, 16.832425]">
-            <l-tile-layer url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"></l-tile-layer>
+            <l-tile-layer url="https://{s}.tile.osm.org/{z}/{x}/{y}.png"></l-tile-layer>
             <l-marker :lat-lng="[50.848986, 16.832425]"></l-marker>
           </l-map>
         </no-ssr>
