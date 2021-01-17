@@ -5,7 +5,7 @@
         Oferta:
       </h2>
       <h3 class="offer-sub-title">
-        Pomiary do celów projektowych
+        Mapy do celów projektowych
       </h3>
       <ul class="list-container">
         <li class="list-element">
